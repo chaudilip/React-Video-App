@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## So Happy to share my first deploy project link 
 
-Open (react-video-app-gray.vercel.ap) to view it in the browser.
+Open ([react-video-app-gray.vercel.ap](https://react-video-app-gray.vercel.app/)) to view it in the browser.
 
 
 ## Available Scripts
