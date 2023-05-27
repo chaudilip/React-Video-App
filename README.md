@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## So Happy to share my first deploy project link 
+
+Open (react-video-app-gray.vercel.ap) to view it in the browser.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
